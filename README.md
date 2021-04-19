@@ -2,4 +2,4 @@
 This is a basic code for a working clock in python. --Written in Microsoft Visual Studio 2019.
 By Feras Karašin :)
 
-Download the code from Clock PY folder
+Download the code from Clock PY - main folder :)
